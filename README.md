@@ -1,7 +1,14 @@
 # logos
- Bitcoin logos and emojis 
-Bitcoin Lightning accepted here: tip.bitpait.club :) <br><br><br><br><br><br>
-<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/lightning.png" width="450" height="auto"> <br>  
-<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/var1.png" width="450" height="auto"> <br>  
-<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/var2.png" width="450" height="auto"> <br>  
-<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/var3.png" width="450" height="auto"> <br>  
+<b> Bitcoin logos and emojis </b>
+<i> Bitcoin Lightning accepted here: https://btcpay177475.lndyn.com/  </i> :) <br><br><br><br><br><br>
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Bitcoin_accepted_here_white.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Bitcoin_accepted_here_black.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Bitcoin_accepted_here_fire.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Bitcoin_accepted_here_galaxy.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Bitcoin_accepted_here_grey.png" width="450" height="auto"> <br>  
+<br>
+<b>Lightning: </b><br>
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Lightning_accepted_here_fire.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Lightning_accepted_here_galaxy.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Lightning_accepted_here_yellow.png" width="450" height="auto"> <br>  
+<img src="https://raw.githubusercontent.com/bitpaint/logos/master/img/Lightning_accepted_here_white.png" width="450" height="auto"> <br>  
