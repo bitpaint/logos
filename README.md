@@ -1,5 +1,5 @@
 # logos
-<b> Bitcoin logos and emojis </b>
+<b> Bitcoin logos and emojis </b><br>
 <i> Bitcoin & Lightning accepted here: https://btcpay177475.lndyn.com/  </i> :) <br><br><br><br><br><br>
 
 <b>Lightning: </b><br>
